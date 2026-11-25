@@ -1,1 +1,1 @@
-vless://aad17ecc-848e-453d-9f69-3250966d1768@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&path=%2F&mode=auto&security=reality&sni=passport.yandex.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=%2F#TCP 157ms
+vless://aad17ecc-848e-453d-9f69-3250966d1768@sub-edge-12-1g.xrent.cloud:11451?encryption=none&type=xhttp&path=%2F&mode=auto&security=reality&sni=passport.yandex.ru&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&spx=%2F#TCP 137ms
